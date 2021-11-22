@@ -1,6 +1,18 @@
 body {
   background-color: #FFF0F5
 }
-
-
+div {
+    border-width:5px;  
+    border-left-style:double;
+}
+div {
+    border-width:5px;  
+    border-right-style:double;
+}
+div {
+  border-left-color: #ccffcc;
+}
+div {
+  border-right-color: #ccffcc
+}
 
