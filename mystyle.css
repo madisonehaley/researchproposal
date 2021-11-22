@@ -2,6 +2,9 @@ body {
   background-color: #FFF0F5
 }
 div {
+	color: white
+}
+div {
     border-width:5px;  
     border-left-style:double;
 }
