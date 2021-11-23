@@ -10,16 +10,6 @@ h1 {
 	color: #2F4F4F;
 }
 div {
-    border-width:5px;  
-    border-right-style:double;
-}
-div {
-  border-left-color: #ccffcc;
-}
-div {
-  border-right-color: #ccffcc
-}
-div {
     font-family:Georgia;
 }
 #menu {
