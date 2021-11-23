@@ -6,6 +6,9 @@ div {
     border-width:5px;  
     border-left-style:double;
 }
+h1 {
+	color: #2F4F4F;
+}
 div {
     border-width:5px;  
     border-right-style:double;
